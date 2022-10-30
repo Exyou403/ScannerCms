@@ -1,3 +1,3 @@
 # ScannerCms
-     ```install Tools```
+          '''[ install Tools ]'''
 * $ pkg update
